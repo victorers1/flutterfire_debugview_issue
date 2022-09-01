@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "135910017685",
+    "project_id": "my-cool-project-victorers2",
+    "storage_bucket": "my-cool-project-victorers2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135910017685:android:54d3095b9838a0edc8699c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135910017685-k12bnpbatb1ehb4t8mkq3hpsjlcrktvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhgocxyRN0VpqI7xKJatInw9sl5O87tlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135910017685-k12bnpbatb1ehb4t8mkq3hpsjlcrktvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135910017685-27181rq04fvvvugl8ppfsrkic5kd2l0p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.splashScreenAndroids"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135910017685:android:aa474bdca8f9c5a5c8699c",
+        "android_client_info": {
+          "package_name": "com.example.splash_screen_android_s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135910017685-k12bnpbatb1ehb4t8mkq3hpsjlcrktvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhgocxyRN0VpqI7xKJatInw9sl5O87tlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135910017685-k12bnpbatb1ehb4t8mkq3hpsjlcrktvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135910017685-27181rq04fvvvugl8ppfsrkic5kd2l0p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.splashScreenAndroids"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
